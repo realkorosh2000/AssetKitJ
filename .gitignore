@@ -1,1 +1,8 @@
+# editor files
 /.vscode/
+# Java outputs
+*.class
+# Windows files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
