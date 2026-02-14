@@ -1,5 +1,6 @@
 # editor files
 /.vscode/
+/bin/
 # Java outputs
 *.class
 # Windows files
